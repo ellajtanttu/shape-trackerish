@@ -1,11 +1,9 @@
-# PROJECT NAME
+# Shape Tracker
 
-#### EPICODUS PRACTICE: Sample one-sentence description
+#### EPICODUS PRACTICE: Week 5: Shape tracker
 ---
 #### By
 * _**Ella Tanttu**_
-* _**Name 2**_
-* _**Name 3**_
 
 ## Technologies Used
 
@@ -20,14 +18,11 @@
 
 ## Description
 
-_Detailed description that explains the project and what concepts were being practiced._
-
-## View Live Application on GH-Pages
-_PLACE LINK TO LIVE SITE HERE_
+_Practice with building environments, TDD with Jest, ES6, and import and export._
 
 ## Setup & Installation Instructions
 
-1. Download or clone github repository to local machine in desired directory - https://github.com/url-path
+1. Download or clone github repository to local machine in desired directory - https://github.com/shape-trackerish
 2. If downloaded, extract .zip contents to desired directory
 3. Navigate to and open directory with Visual Studio Code
 4. Open terminal and install required packages by typing "npm install"
@@ -47,16 +42,3 @@ _https://opensource.org/licenses/MIT_
 ## Contact Information
 
 _Ella Tanttu ellajtanttu@gmail.com_
-
----
-
-
-# Whiteboarding
-
-## Prompt
-> Block quote paragraph setter
-
-## Analysis & Brainstorm
-
-## Pseudocode
-      Test must be tabbed in three times to show up as code block:
